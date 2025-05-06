@@ -1,4 +1,4 @@
-name: Regenerate framework models
+  fortressname: Regenerate framework models
 
 on:
   workflow_dispatch:
