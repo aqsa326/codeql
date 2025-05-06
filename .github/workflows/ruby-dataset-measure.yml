@@ -1,4 +1,4 @@
-name: "Ruby: Collect database stats"
+  name: "Ruby: Collect database stats"
 
 on:
   push:
